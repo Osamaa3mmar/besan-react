@@ -1,0 +1,164 @@
+/* تنسيق الحاوية الرئيسية */
+.quiz-container {
+  margin: 0 auto;
+  max-width: 600px; /* زيادة العرض */
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9; /* خلفية خفيفة */
+  border-radius: 10px; /* زوايا مستديرة */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* ظل خفيف */
+}
+
+/* تنسيق الأزرار */
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease; /* إضافة حركة أثناء التمرير */
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* تنسيق البطاقات (الأسئلة والنتائج) */
+.question-card, .result-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #fff; /* خلفية بيضاء */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* ظل خفيف */
+}
+
+/* تنسيق العنوان */
+.question-header {
+  margin-bottom: 10px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* شريط التنقل */
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color: #007bff; /* أزرق */
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.navbar button {
+  background-color: transparent;
+  color: white;
+  margin: 0 10px;
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar button:hover {
+  background-color: white;
+  color: #007bff;
+  border-color: #007bff;
+}
+
+/* تنسيق النصوص */
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+p {
+  font-size: 14px;
+  color: #555;
+}
+
+/* جدول النتائج */
+.leaderboard {
+  margin-top: 20px;
+}
+
+.leaderboard p {
+  font-size: 16px;
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+/* تحسين عرض الخيارات */
+button.option-button {
+  width: 80%; /* تحسين عرض الأزرار */
+}
+
+/* إضافة تنسيق للرسائل */
+.error-message {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.success-message {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* تنسيق إضافي للأسئلة */
+.question-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.question-item p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.delete-button {
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: darkred;
+}
+
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: start;
+}
+
+.form-container input{
+  width: 100%;
+  padding:8px;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 0.153);
+  
+  border-radius: 4px ;
+}

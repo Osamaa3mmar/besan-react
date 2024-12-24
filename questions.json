@@ -1,0 +1,234 @@
+[
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correct": "4",
+      "difficulty": "Easy",
+      "category": "Math"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct": "Paris",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct": "Mars",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Shakespeare", "Dickens", "Hemingway", "Austen"],
+      "correct": "Shakespeare",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "correct": "Pacific",
+      "difficulty": "Medium",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correct": "100°C",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Pb"],
+      "correct": "Au",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+      "correct": "George Washington",
+      "difficulty": "Medium",
+      "category": "History"
+    },
+    {
+      "question": "Which of these is a mammal?",
+      "options": ["Lizard", "Eagle", "Whale", "Shark"],
+      "correct": "Whale",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who discovered gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "correct": "Isaac Newton",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correct": "1945",
+      "difficulty": "Hard",
+      "category": "History"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "correct": "8",
+      "difficulty": "Easy",
+      "category": "Math"
+    },
+    {
+      "question": "Which element is represented by the symbol 'O'?",
+      "options": ["Oxygen", "Osmium", "Ozone", "Opium"],
+      "correct": "Oxygen",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct": "Leonardo da Vinci",
+      "difficulty": "Medium",
+      "category": "Art"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correct": "Amazon",
+      "difficulty": "Hard",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+      "correct": "Tokyo",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the process of water turning into gas called?",
+      "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+      "correct": "Evaporation",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which of the following is a primary color?",
+      "options": ["Green", "Blue", "Purple", "Orange"],
+      "correct": "Blue",
+      "difficulty": "Easy",
+      "category": "Art"
+    },
+    {
+      "question": "What is the largest land animal?",
+      "options": ["Elephant", "Giraffe", "Rhinoceros", "Horse"],
+      "correct": "Elephant",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correct": "Charles Babbage",
+      "difficulty": "Hard",
+      "category": "History"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "5"],
+      "correct": "2",
+      "difficulty": "Easy",
+      "category": "Math"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mars", "Mercury"],
+      "correct": "Mercury",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Benjamin Franklin"],
+      "correct": "Thomas Edison",
+      "difficulty": "Medium",
+      "category": "History"
+    },
+    {
+      "question": "What is the name of the famous clock in London?",
+      "options": ["Big Ben", "Clock Tower", "Eiffel Tower", "Grandfather Clock"],
+      "correct": "Big Ben",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which country is famous for its pyramids?",
+      "options": ["Greece", "Egypt", "Mexico", "India"],
+      "correct": "Egypt",
+      "difficulty": "Easy",
+      "category": "History"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "H2SO4"],
+      "correct": "H2O",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which of the following is the largest continent?",
+      "options": ["Africa", "Asia", "Europe", "North America"],
+      "correct": "Asia",
+      "difficulty": "Medium",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "options": ["0°F", "32°F", "100°F", "212°F"],
+      "correct": "32°F",
+      "difficulty": "Medium",
+      "category": "Science"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+      "correct": "Alexander Fleming",
+      "difficulty": "Hard",
+      "category": "Science"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic?",
+      "options": ["Amelia Earhart", "Harriet Tubman", "Rosa Parks", "Marie Curie"],
+      "correct": "Amelia Earhart",
+      "difficulty": "Hard",
+      "category": "History"
+    },
+    {
+      "question": "Which of these animals can fly?",
+      "options": ["Shark", "Penguin", "Bat", "Elephant"],
+      "correct": "Bat",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "What is the largest country in the world by area?",
+      "options": ["United States", "China", "Russia", "India"],
+      "correct": "Russia",
+      "difficulty": "Medium",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the primary ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Lemon"],
+      "correct": "Avocado",
+      "difficulty": "Easy",
+      "category": "Food"
+    }
+  ]
+  
